@@ -1,0 +1,7660 @@
+fileFormatVersion: 2
+guid: c096ca3ea2305a241ae5c11fcd93f7d8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GroundAssets 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1824
+        width: 976
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa0c7a9d4839f04a96b3a98c07579a3
+      internalID: -257483796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_1
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1857
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b057d8a7f35d19949ac4c5109cbc0fcf
+      internalID: -1939194292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_2
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1851
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a723119df9701459e0758273c1d3e6
+      internalID: 360027393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_3
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1851
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14dcdf9464fe2144bb56f67342581f2d
+      internalID: 1865396608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_4
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1851
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff3e3b34ddd9504a8f294b05fcf5aee
+      internalID: 1437386355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_5
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1851
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77a62eb4437572488d553d74edaa1c7
+      internalID: -747790972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_6
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1851
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed9174599a62a4468682068f5000626
+      internalID: 149883194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_7
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1851
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be612750cd2272d4e83385557e3d5ae5
+      internalID: -159043806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_8
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1851
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b27ef09e1f21694b900bf91e1ed31b8
+      internalID: 1766425953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_9
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1851
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a569344d681650e4a9dba34cfd30bd7e
+      internalID: -475323175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1794
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2100c34456ff8e547826ed4274ce5b6b
+      internalID: -1366291405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_11
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1794
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5580e117dec71bc48afb100255be03e8
+      internalID: 989241857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_12
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1794
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719835956fa1c3348bf3021d4e06f2ee
+      internalID: 452803049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_13
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1794
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a63d1edc0fee364dae790b850092bc5
+      internalID: -819941262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1794
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f49c885766c1c340bf93233408b93d4
+      internalID: -660408346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_15
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1794
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ddb7d1c9dccd74daace2dcf70e7f1a
+      internalID: 2015375584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_16
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1799
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622155943b6fb08459bf2a5737a3b8b4
+      internalID: -1392415281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_17
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1799
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11807ef8f5b1caa4ba60829b087a0eb2
+      internalID: 918466557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_18
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1799
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd96aa70906a73640aa30598492cd04c
+      internalID: 1820221828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_19
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1799
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc074b657cb64f488a0d9d512563b36
+      internalID: 82196089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_20
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1799
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60faeeb08b90bc140b187181c0709347
+      internalID: -427305606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_21
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1799
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309d638619c28f44d8a9dbd142ef79a6
+      internalID: -538780877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_22
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1799
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eef7053287a4144b9a473a5ac03898f
+      internalID: -858727897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_23
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1799
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13567d3c7f5b44f478ec3544e96a1fe8
+      internalID: 1929232223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_24
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1799
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a043b7d6298c67d42ad600fd377c5071
+      internalID: 1135470009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_25
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1799
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bd8fe97130f814ab491d14c4f6e080
+      internalID: -1644711459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_26
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1799
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105303d0897f0434b9bf32c684024758
+      internalID: 1126662602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_27
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1799
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69e6861c728ac04fbff91d3928e1fe1
+      internalID: 1036242271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_28
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1799
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3483d22588e50438eeb969d9c28141
+      internalID: 416299102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_29
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1745
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b1bb07dac1e994a9a15a05d338bb88
+      internalID: -390452311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_30
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1745
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef2abfcfb6a6c04189c1a384d0647b3
+      internalID: 265245435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_31
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1744
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557627469a17d7e4387f16d7035db13c
+      internalID: 642705263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_32
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1744
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18c5fed84c4850499278f649310644a
+      internalID: 1526937773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_33
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1744
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ce30a306ff60243af97aa8970ff1d4
+      internalID: 325152104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_34
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1744
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dca22100440dd49b42c9aa122e570c
+      internalID: -1773672035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_35
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1744
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1da92e299bd4b46ba53c892ac0fe0c
+      internalID: -840454019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_36
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1744
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46230f020b2f550478fcf5bd84d3cbf2
+      internalID: -2021619585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_37
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1744
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ec74daac19979419c27ee788f8390f
+      internalID: -1538447636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_38
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1744
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a89b3eeb7f37844bf37bdc68964448
+      internalID: -95753115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_39
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1744
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae28892facc82a84a9bab53905775827
+      internalID: -260047814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_40
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1744
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22d68638f3beeb4296a0ebd9b7babbd
+      internalID: 628684089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_41
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1744
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fccebb8311bd34d9dd9536d91abeb5
+      internalID: 890766224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_42
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1744
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2920499dd4d6934f835aab57cdc0225
+      internalID: -210319093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_43
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1744
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32d54b9cb4ca6e4fac123c12c3dc1d9
+      internalID: 153559786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_44
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1744
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e1b3afe2009c447bcabaf2b2149d70
+      internalID: -1103395482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_45
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1744
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f37578203653974687634637fb1fffc
+      internalID: 935644252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1383
+        width: 358
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d115b936df1b9745b713ba41462a734
+      internalID: -826975653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_47
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1678
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03cdcf921514a349a29e1ae682e6a67
+      internalID: -1952663585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_48
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1678
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1147391a02f574a9dfeb1c7fb9399f
+      internalID: -323068763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_49
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1678
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0469384dc9ae8e4697e325f4326340b
+      internalID: -781862168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_50
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1677
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1867c26e9d2d346887201a425c5073
+      internalID: -960833908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_51
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1676
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbddb4b8629f054aa57b530202ae659
+      internalID: -933073595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_52
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1675
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9d5c664f696f94f91e1dddcf13b988
+      internalID: -1865030346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_53
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1625
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d1c5e54afb84146b265b2e59c7345d
+      internalID: -1160209490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_54
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1625
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43a5a2f54b64f44da19adbd778eab1d
+      internalID: -1301538640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_55
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1625
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924b2fae6d6a43948a3e46d57866a12e
+      internalID: -1457131772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_56
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1626
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f12828044b7db41bee73b4fc7679fc
+      internalID: 449149110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_57
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1626
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83762591312e4241b1fdc69edf6294a
+      internalID: -992789328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_58
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1627
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944bd23a41b7e854aba2eddc2b532719
+      internalID: 124601497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1371
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d121e0c913b36884d995112cdfe877a0
+      internalID: 1746274380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_60
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1371
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe154ccc3753a1e4585843fc53b5269e
+      internalID: -131807580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_61
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1371
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3821e27d8be064049824c7c5057c643d
+      internalID: 1875588098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_62
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1371
+        width: 65
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23170e966ce9e9548ab04ed8fde71dd2
+      internalID: 2000159547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_63
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1372
+        width: 69
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0804be20ddf94f8498379d317fffed13
+      internalID: 44138759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_64
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1372
+        width: 71
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7862c2cf8378c42b5f369142ff0fc1
+      internalID: -142320873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_65
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1373
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86f74a8daf815142882650e4045d974
+      internalID: 311984061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_66
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1373
+        width: 71
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e42e5601d2bde4288cd56ff39b8eb2
+      internalID: 765976630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_67
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1288
+        width: 65
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bd91088b11090468ad59e6a9c23449
+      internalID: -25862715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_68
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1307
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aff0c46e9d2e3847aa585423da29cd7
+      internalID: 624894427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_69
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1308
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2258b8208ac0b74408e64450cd4a97b8
+      internalID: 938401470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_70
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1308
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3911ed65dbb0d9844b73f61665afd71f
+      internalID: 387763880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_71
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1306
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767efaadba487a448b67a24b5662bf3e
+      internalID: -36368595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_72
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1330
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d944f5a6ee7bd45909e9672f2ec3b1
+      internalID: 1030583718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_73
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1331
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7190185b1a681f46a5df6797c036413
+      internalID: -1399262837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_74
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1288
+        width: 68
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec047fa5a2aeeb4f8721839139a5a21
+      internalID: -37360719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_75
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1272
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0284782cedd3ee741bb330ee089fd1b0
+      internalID: -87805717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_76
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1274
+        width: 43
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fa8858c365bd04abd5799d973e0f72
+      internalID: 1978164850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_77
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1273
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ccf07dab03fbb4597d91f8707a93dc
+      internalID: 702913342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_78
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1274
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1793d0586fa894cabf79b985388ebc
+      internalID: -1907629948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_79
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1274
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ba3039b543f1d428be61b63c3dbfdd
+      internalID: 368257973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_80
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1273
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47670ae9baf8a14cad6b38ebf9e1e86
+      internalID: 428163794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_81
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1271
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1cdcd2fe8bb0045a363b5f331b5dc0
+      internalID: -833580543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_82
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1272
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f87a1e5c0781a49a4c5daf6382dd56
+      internalID: 1760175000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_83
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1230
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd1cb6146344ed48bb80a6bdee343fc
+      internalID: 516488443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_84
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1230
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b86c0051f0d9df4584ad5f1c3e7ef07
+      internalID: 827223571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_85
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1233
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06a295277618ed4bab420fe4ccc06ca
+      internalID: -964549782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_86
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1234
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2465ed3e8ebc94c916015aaf4ec911
+      internalID: 1341396147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_87
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1237
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0004d7d625e9143bd0ec7242e21707
+      internalID: 69092026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_88
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1237
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671115f21e7d4354f8c1d02e745aa194
+      internalID: -1556190037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_89
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1237
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef97bc35f998f214694b4c78d85090d1
+      internalID: -1850708838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_90
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1237
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069384add3eadd94f827e6ba89c05aed
+      internalID: 748119590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_91
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1171
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb1d8a5097affb48b97143b15c70079
+      internalID: -1921457577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_92
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1171
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9502de0affbde7f4b8fc84035e4e64b1
+      internalID: -259457152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_93
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1170
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6413255db165846aa1841eb6c6631f
+      internalID: 738742054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_94
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1169
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5963f1a5a428f1d41a4e8a8cdceacf17
+      internalID: 1261735019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_95
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1169
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314b2227c2c8cde478ce85d985d59b20
+      internalID: -1491345184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_96
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1168
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e708e2b486dfb448fae5dca2b090cb
+      internalID: -1981741468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_97
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1166
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba8bd0b8b504a24c8a02f14a277f18f
+      internalID: -133644541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_98
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1165
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1d5a79269d72f428e407e1b56fd4a8
+      internalID: -479630038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_99
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1134
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6f3d7d2458c2341aa6468e1136e0a6
+      internalID: 1369124382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_100
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1134
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a4e718134effd4a92a4775cb8b2dcf
+      internalID: 40368705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_101
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1133
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27961f199790a55419b70a67fde803b4
+      internalID: 383665553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_102
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1133
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ed140cdfa317c439761a18d1766275
+      internalID: 1721631731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_103
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1133
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faacd2cee97027247918819c5cf44132
+      internalID: 1714140595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_104
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1133
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768b6694bd1e0224d81f074df3cdc913
+      internalID: -683062218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_105
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1134
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f43e4956b260a94c8df4b526d6ddec0
+      internalID: -408643690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_106
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1135
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb5f7cd35c7e5746b9879e78335ba97
+      internalID: 1022081816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_107
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1060
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb637d560b22d974cb5a4ed274a6283a
+      internalID: 1784637053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_108
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1059
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d3a062486ce1149ae5073c9fd62ed0
+      internalID: -975266060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_109
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1057
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366c7ff37b65d7941abcead01add9399
+      internalID: -2127725124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_110
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1056
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23df763f95da4d0408d204bf2ecef257
+      internalID: 1387738665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_111
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1037
+        width: 15
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6fe7c606f68df4aac8447545ac30ae
+      internalID: 1558196288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_112
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1055
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89fdd1320697d44e87662f6110ca9ae
+      internalID: 1283747123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_113
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1037
+        width: 15
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46f90fc9a995e545892f873821e9c96
+      internalID: 1615619625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_114
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1053
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf452fe9074c09c489982a2c18d9f823
+      internalID: -1047874939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_115
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1038
+        width: 14
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79accaed10efb3c42bbacc737627b45c
+      internalID: 1687514423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_116
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1052
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8cb415723838f4694bdb0a8c2afc38
+      internalID: -1769499989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_117
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1038
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba75003f0dd9454dbef49f31d650012
+      internalID: -1974249450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_118
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1051
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ac40ac3c473da4db73fe36580ae355
+      internalID: 1715461686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_119
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1038
+        width: 12
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70242ce4bf5496e40b14eb4b4bac7821
+      internalID: -1851137692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_120
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1034
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c27fc84133a76443a74550a3571cd35
+      internalID: 811584478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_121
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1035
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002948c236d885248a4196e0c873f20b
+      internalID: -1762377873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_122
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1035
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5176490732c91af4694c86d69dd83b71
+      internalID: 1181347125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_123
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 947
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79f9c6559b228c4aaf479db6c034f08
+      internalID: -90234593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_124
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 935
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101aef00f8426b048965d4ff59fbfb1f
+      internalID: 1183858447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_125
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 946
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9ec57ac21585740933e095477a142a
+      internalID: -1664091588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_126
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 935
+        width: 12
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2c9822e90163f4398386274f2bcff2
+      internalID: 1594921732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_127
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 946
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319ab0a0ac0e8fb4d9602f92466301fc
+      internalID: 247576528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_128
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 934
+        width: 12
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d683c6cebbf099449a8097af45a9e63
+      internalID: -1368590303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_129
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 945
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb61b07ceb6d7c4c97a7b3044a39062
+      internalID: -1934814933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_130
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 932
+        width: 14
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf7e145a67baf74bba0dc75c0a79ed3
+      internalID: -448466216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_131
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 945
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5186253904a1d204a8d40583d367744e
+      internalID: -845175018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_132
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 945
+        width: 63
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca42aeab476b664fb63802b9c2549f9
+      internalID: -458467130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_133
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 945
+        width: 65
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a7ee2799e8a6e4d8744c40a3799347
+      internalID: 710490091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_134
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 946
+        width: 68
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945b5d97e08ae0f439e79e5bdaf18744
+      internalID: -2019120303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_135
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 931
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679d5c620e3f62944bb417a3edd55f23
+      internalID: -60220588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_136
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 929
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2be013cbce328c4ea21a98a2b0054c0
+      internalID: 1944333965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_137
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 929
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3425a40f650ef71448dfad4031c04812
+      internalID: 2016772150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_138
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 927
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b299a5f2508a67d4b8257898d5178232
+      internalID: -836049208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_139
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 843
+        width: 71
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb305afe335ab7047b277a7bb560e4f4
+      internalID: -430752715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_140
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 844
+        width: 74
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8636c39be56733a449e4759207bd6e4d
+      internalID: 2115346290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_141
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 845
+        width: 117
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dc8d3ac0726e440beabc86cc7fd9ef
+      internalID: 1012523345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_142
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 845
+        width: 74
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24befc9ed965094581c68f920df1a22
+      internalID: -988852111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_143
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 846
+        width: 71
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a03a5da10a5fab458e2785e0c0cbb14
+      internalID: -1039945042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_144
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 847
+        width: 68
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca0390312c60834590327cec677a2f1
+      internalID: 1203710521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_145
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 849
+        width: 65
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a562308f563340446b9cc8127259adb9
+      internalID: -1049585602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_146
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 850
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1120dd58548c60446a7920d4292125ba
+      internalID: -1107086956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_147
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 822
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6b70bc5175102469c13103dee66cb9
+      internalID: -2064215913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_148
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 821
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60698d7020478cc4d8426cf76dc9163d
+      internalID: 1814690123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_149
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 819
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110e920e1c44cef4ab61d43068b0b248
+      internalID: 732502488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_150
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 819
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105f1fe38f2a5944287635a645864c24
+      internalID: 1784601219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_151
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 817
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991f755b3a88d7e4586b95e8630353d3
+      internalID: 1668741785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_152
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 817
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc07d694942aa6e42a81ab4c0665a723
+      internalID: 1803834231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_153
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 815
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cfd49dcdc36db4d91237cc9cc52846
+      internalID: -1569278956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_154
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 813
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35d8d9f717feb0408ad4f43713ee5bb
+      internalID: -234927405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_155
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 751
+        width: 53
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65ea4fc70a47b842abafa0f489cec7a
+      internalID: -2044159113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_156
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 752
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c788ecba2f03b74d9bb568a4ef2f842
+      internalID: 1865080708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_157
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 753
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8750863e94ce7f747b0a38e92dad0b46
+      internalID: 311063536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_158
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 771
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c612c7935df79479ae77de2b95a113
+      internalID: -2065806726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_159
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 771
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa45ccf5c3adde4dac3159410b546c3
+      internalID: -623237715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_160
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 771
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3df3a2d1489ca4494d0ccf7f72f70c
+      internalID: -2131732360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_161
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 771
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1fe7f8d2f404541ba7893d7fd320f6
+      internalID: 793907602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_162
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 771
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01c956caac5bbd4798736833a2cf79a
+      internalID: 1030902649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_163
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 771
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2540ebb922d3b14e92ecc3ceab4bd5f
+      internalID: -1025192830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_164
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 748
+        width: 118
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c918fc9229fe6847885b506c172b4f2
+      internalID: -419100913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_165
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 749
+        width: 56
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511da634c25cf5f468635c5df2df2b8b
+      internalID: -168986436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_166
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 755
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4cba0a00d0823459876e07bd649bc3
+      internalID: -989938497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_167
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 709
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d073c32fd7daccb459b6810be8a21107
+      internalID: 1156388243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_168
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 709
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60c42165a6535446bc79753b616672e
+      internalID: 1415976390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_169
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 707
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a546d5e94b7c71944b93137689ad3051
+      internalID: -1843544054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_170
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 706
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2cce7b3f8aafc4e8f775f49657b8f2
+      internalID: -1744513782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_171
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 705
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bda2e9373dd61a47b1641c3de2189bf
+      internalID: 57213623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_172
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 703
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cab316bd9751a34c88a2b926d94f79e
+      internalID: 1267501836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_173
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 668
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79144d1a0b95db64793ab46bbdca9c74
+      internalID: 1104395251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_174
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 668
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcaf9978e3669d84f8edfe1f206ed9af
+      internalID: -1590459256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_175
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 668
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1e511d7eafc324ca1b518e95a11121
+      internalID: -1137972530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_176
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 668
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b36d1b3d78362845a225d3db6995139
+      internalID: -1870216336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_177
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 668
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e65cb55daaa22c4ab6f018d88d05d18
+      internalID: 1480004188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_178
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 668
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087b86fb4b029d44ca18848e0d91ef90
+      internalID: 16970168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_179
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 668
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d80a3c3cbefe84783d9c7f3401f89f
+      internalID: 812057453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_180
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 668
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ffdcd6ee3e38a4c9fd3e977ac0d174
+      internalID: -1372596287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_181
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 668
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ae82905949ea541887c66902e90fc4
+      internalID: -1384272606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_182
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 673
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232caccc6180e78408afc31c7eb39b5f
+      internalID: 1772144283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_183
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 673
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034608bb4f0f1dd479e2605ec41bd1ef
+      internalID: 1009443595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_184
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 673
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae7744816e6b484e87ab7784e741e71
+      internalID: 464036192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_185
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 673
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb09a60dc01c4cc4fbaa3aaf536f7ce9
+      internalID: -1440173364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_186
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 673
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce2150f03c1831428665c2dc1eb9ef5
+      internalID: -425621393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_187
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 673
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9112bd119cda4142a0e1f30b3d9e414
+      internalID: -936138694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_188
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 673
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec1a833641e0924bbdba01378d903a0
+      internalID: -783897904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_189
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 673
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f4d862b218aa142a2894c9c7603320
+      internalID: 1915889389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_190
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 673
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618e68310c34fd44fb8f97b16bbf846d
+      internalID: -1703909229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_191
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 673
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708232238d48c214abaec0d5c5bf27a3
+      internalID: 1449013157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_192
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 619
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a262b6fe9152ba04e9ac406cce35371e
+      internalID: 86922241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_193
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 619
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72675e53bf949546a8f69cd7d4070f7
+      internalID: 609069177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_194
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 619
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2b2ca119188a64c99244d2675cff45
+      internalID: -1778294162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_195
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 619
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94986f33d6efe1e4fb38fdb8cbc49151
+      internalID: 1270241063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_196
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 619
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36f43c299e1f794b9728704b67c3935
+      internalID: -2031776422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_197
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 617
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91c8d8a67f85a445bc59e8f5110fde0
+      internalID: -1852324939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_198
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 617
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9c6b01cb42ed348903bf4b8df76d84
+      internalID: -590091092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_199
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 617
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc480506c10957d4ab64d2a3bd4c45e9
+      internalID: 1546485865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_200
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 617
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139a69959b947854bb9b2230d8fc6588
+      internalID: -1533701234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_201
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 617
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f57fa0b53dc00b4d8ff763319b43998
+      internalID: -498589339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_202
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 617
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13aaa71c6143e7468642429d9dab4f7
+      internalID: 1330331987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_203
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 617
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e51f94475d9064d8db0e3f95972464
+      internalID: 1928727176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_204
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 617
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4e2e964abcd5d488e824ed71728b9a
+      internalID: 1504711963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_205
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 617
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b507d9627f41bfd41bc885feedd17a5a
+      internalID: -1711966597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_206
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 617
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a36db172baecf4e9a1d52e5574051a
+      internalID: 1489269426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_207
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 617
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce4ee67bfa425542b025ef930c3b767
+      internalID: 935223325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_208
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 617
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958ded007e5b8f9478ff84009358ded4
+      internalID: -2065931424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_209
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 617
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1fccf1d0312c34d9d6301001c08313
+      internalID: 245862366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_210
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 617
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94471e3546e71441834fbec293ec00f
+      internalID: -456973520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_211
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 569
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6e2af1f7cdab8429ec5b2c574c5b61
+      internalID: -1087566449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_212
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 530
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5c5e0517add1a478dfbffb2556cff7
+      internalID: -1894311318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_213
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 566
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c0574ca0bfb6f4685de49fc0086c70
+      internalID: 1480070793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_214
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 566
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4af7bc955412844b2fad68dfccb160
+      internalID: -2068572262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_215
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 566
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243d1353ce4b1334e87fc124824540a3
+      internalID: -1831412520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_216
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 566
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a898b0683e7e7ee4992adcd2efd9ccd8
+      internalID: 1246476314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_217
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 566
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cded8293fb95044a820c169b3015ba4
+      internalID: 164252813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_218
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 566
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1871605bae35c64589f577fe8f13c99
+      internalID: -371094264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_219
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 566
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed3e8122005a384e94071f6d7fea4d7
+      internalID: 640570474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_220
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 566
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525fc2f442fce994a974d8619c02b33d
+      internalID: 2052890518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_221
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 566
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0a933cc2403b94b8e1eb29df62344b
+      internalID: 575995010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_222
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 566
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d644f1d73aa12438db370c67ba8611
+      internalID: -1561616589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_223
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 566
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c3ed0cf83df4b4fb93baa16d73a50d
+      internalID: -205226884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_224
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 566
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c65b67a8048a494a95723e04b84f734
+      internalID: -1640512067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_225
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 566
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c177de6e98139a43871975f0a3f06ad
+      internalID: -774208306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_226
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 566
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4548178fb0563954bba5cb350e71c892
+      internalID: -1756081608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_227
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 566
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71957ba320ce5374ab9605ca9227ea38
+      internalID: -1668582326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_228
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 571
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabafd448b9aedc439c9eeab7ff8a77f
+      internalID: -185021684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_229
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 467
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65cc54d19c9d564b8cda10f006368b5
+      internalID: -648171494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_230
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 467
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7145008d23799d24794c698323a6ea9a
+      internalID: 1975885976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_231
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 467
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb736ab7456fce42b1901811bc11c54
+      internalID: -1958252205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_232
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 467
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab87cc81c1d8284438ddbf7bc64067b6
+      internalID: 94038781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_233
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 467
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dcaa20da27d04429cc88fdf362af3f
+      internalID: -634719302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_234
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 467
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698c92367384ff54a932a198f4a714ca
+      internalID: -1388155764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_235
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 467
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d57fe6c62f3bdf45ae05f4d2bc95625
+      internalID: 951362229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_236
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 467
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be5bba4967c70644aac3d014be36aee
+      internalID: 1602299886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_237
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 467
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0c1b8c229100541a9a330410c0a045
+      internalID: -1229796907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_238
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 467
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1167bf5bc39562d4dbec6eee5f3a3e6b
+      internalID: 2003249253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_239
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 467
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12660642659f53f4aaf319c9311dd354
+      internalID: 1043235970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_240
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 467
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba59c3de32122aa4aa466e3e1454bac7
+      internalID: -1302068737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_241
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 467
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216271aceccae0f488ab9c357f50a788
+      internalID: 267570523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_242
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 467
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24479dc388a1c647ba65c8269f9eb99
+      internalID: 1307052519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_243
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 466
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73330fbb5b4a43947885cce1177bb0bb
+      internalID: -1574937572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_244
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 466
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f0eb4d6cf97f5458f9538dc0457810
+      internalID: 1609440278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_245
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 466
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c762e6bc6e91bdf498d6c17bbbc763ac
+      internalID: -1510733548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_246
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 466
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093bbd7b5aa86c446a69e5af13ce2f38
+      internalID: 1386434522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_247
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 466
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2d4c0585d9b31468de526a93657bef
+      internalID: -758352671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_248
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 419
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcd160138927fb4fa909536c31708d8
+      internalID: 1519130092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_249
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 419
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5e2ce6d880683499b04d06d93cdb5e
+      internalID: 919008350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_250
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 419
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ac7ed5ce07dc84ea2897cace8a04aa
+      internalID: -1133091058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_251
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 419
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0eb0c77f29e6241bd479e3cd9ecca2
+      internalID: 649241954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_252
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 419
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11110a74431d9bd4f9575f9524b6368b
+      internalID: -1666549632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_253
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 419
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b62f18694235dc429f29e84d8436164
+      internalID: -1842547739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_254
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 419
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5f50e2f12c4624a9beec56c9aa98d2
+      internalID: -1865138757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_255
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 419
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b507a154c31153d499ad1b7a475b2d29
+      internalID: 1076581682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_256
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 419
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0ccb4ef352eff4a9ddafdd84c21b68
+      internalID: -188857540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_257
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 419
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e48697623b163c4abfcc6555520a0d0
+      internalID: -723326403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_258
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 417
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573d1a607c04949429a6c4548a66bfc3
+      internalID: 479719444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_259
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 418
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2539ab3e335e2de4ba51d579760d2cf1
+      internalID: -1303592207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_260
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 417
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafca8083db30f448a7461d2c5414e56
+      internalID: 58671693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_261
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 407
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf2f044d8403a546bd314f8a7482886
+      internalID: -1142433622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_262
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 407
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8752e4c8dcc372b44aa94e2cfa91339b
+      internalID: -83634338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_263
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 407
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e6518bf572ee346b0512b8668aeb9e
+      internalID: 1933237837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_264
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 407
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30e34aa0c2148d4c881f36a44823ffa
+      internalID: 371865819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_265
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 407
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4586d7f7b2d8b64591bffbf2006cac3
+      internalID: -593730950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_266
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 407
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4d45f5c21e5ad4e952c7a62287f973
+      internalID: 1808702734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_267
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 407
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfddfcf2cb815c4cad271b7205b9aba
+      internalID: -370691719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_268
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 407
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75abf4dbaad078d4b959b6dad827054c
+      internalID: 402208723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_269
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 356
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e6b9e118497d2459fb6203a289dd0e
+      internalID: -1499481265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_270
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 356
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd89ba0587a64284ab40a4a3dd27776f
+      internalID: -1602145844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_271
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 356
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e990ca52ea3ff584bbaca0bc05c9bfa2
+      internalID: 1148545607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_272
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 357
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a096034432b7c04997daef9a9dd8bd5
+      internalID: 1978544236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_273
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 357
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bd754d48c73104f91e898bbb91ad05
+      internalID: 1574348094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_274
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 364
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a126cad26ee44834bb14d3751ba85e20
+      internalID: 1826761250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_275
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 341
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18290c6ae167ee94a8053cb8e6f66558
+      internalID: -1411401161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_276
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 341
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f7bf24169d70a4abafa12c465c4658
+      internalID: 162781620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_277
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 368
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9210c0478cce1e7448f47139726f2171
+      internalID: 1854533182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_278
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 368
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cbb1fd3cd65a6419a1eef0448dcf2a
+      internalID: 252358012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_279
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 368
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50182548919b5b34a8bf2177ac63a72a
+      internalID: 14686720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_280
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 367
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc28472355edf6b439765dd7f9647f3e
+      internalID: 567109004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_281
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 367
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfd9a432c34cc54dba422fa12452fed
+      internalID: -1348678084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_282
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 367
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e054116ddb4ef488ad06e2a1b5e6c6
+      internalID: 1137773111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_283
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 367
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72b7de7d9e15184092b6138d28c777d
+      internalID: -1160442546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_284
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 367
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07aba46fe07c18c4c992237db3872f86
+      internalID: 866114761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_285
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 367
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6685b96f45a2b354fafba2cd7fbb5235
+      internalID: 444091022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_286
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 367
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3499bf697377dfb49979ba1d6edaad4b
+      internalID: -2095864301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_287
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 367
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c2422abf08de142a80d70703202a6c
+      internalID: -93230149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_288
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 367
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede17ec7b18f15846b3a528503208679
+      internalID: 1602393331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_289
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 367
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dbe8dd273771745a4f196160f1e00d
+      internalID: 1805390225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_290
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 303
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e4cfb32bcd607449948ce475ad2dc0
+      internalID: -520210791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_291
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 303
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f898b1f043bad4e860926d5f669323
+      internalID: 2084702550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_292
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 303
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b99c8057f5e2e4f931bcda2d0b54af
+      internalID: -15617547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_293
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 303
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27b1d22489c6e44ba511b894d48b804
+      internalID: -1299916715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_294
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 303
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6fea02a665dce498acf95c50bf3005
+      internalID: -637006543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_295
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 303
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d698706f6075f345aa48ff6fbc10761
+      internalID: 1910799524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_296
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 303
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ee6799213efc9458f5ebd0ecf1bd2a
+      internalID: -621480497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_297
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 303
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc13f0284e4dae4480bd26670f3f9b3
+      internalID: 841535956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_298
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 303
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970044ae76c0e2842b088371c21aebb5
+      internalID: -420901532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_299
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 303
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6d43440eb52934c93288ef80b7fcb0
+      internalID: -964119549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_300
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 303
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cadc33e144c4446b86cea847ab7192
+      internalID: -537850101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_301
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 303
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe4d80e0be22924f8f8560a1f711f19
+      internalID: 1430147363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_302
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 303
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a231b96b330d4b4a99401842b75d49c
+      internalID: -945635497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_303
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 303
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542b3c2eddd5f5348bde6d4fd34eca27
+      internalID: 977154489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_304
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 303
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c74235596e3a934f888c66eaab75670
+      internalID: -1022373136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_305
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 303
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f83fc5f13c5514da10f4179c8fc1ac
+      internalID: -1821021856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_306
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 303
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e9c3df01b9eb548bfaefa58335d1f7
+      internalID: 1675847712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_307
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 302
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb655529d6ab8543b03342642b94c39
+      internalID: -1564728446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_308
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 302
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43137fc6b2117764abbdf3cfc7a67f89
+      internalID: 2092470233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_309
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 302
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa5d1b7805cbc145b25986efc79a678
+      internalID: 1789906887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_310
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 251
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e5dd467c2a1ba4489f038a2d592456
+      internalID: 1962536911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_311
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 251
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b97cb4664c908a4e8310e6581b7266f
+      internalID: -594908177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_312
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 251
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8343f082c6e9b8a44b248fc2682b9f8f
+      internalID: -1373239594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_313
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 251
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e74d61399a51524c93a580e11a717dd
+      internalID: -1767629697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_314
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 251
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82886c22aa232c34b96f9e544c5dd956
+      internalID: 2001484649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_315
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 251
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c4cd6de7312054cbbd6e35b29210bf
+      internalID: 1610594803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_316
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 251
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed49eb6abd669e449eb37c17b08f577
+      internalID: -312347362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_317
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 251
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47497c77eaa36e044880ebb328e7e702
+      internalID: -1537270516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_318
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 251
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bb6acc978aacd40b874ef151dfcd5d
+      internalID: -1867869278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_319
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 251
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3caed2a56e33f4fa53e649b907a4e8
+      internalID: -815979752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_320
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 251
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad95300cbda5caf4280a3476f37be259
+      internalID: 1284285044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_321
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 251
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f774a678c135c84fba38e2684ad6c22
+      internalID: -344309197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_322
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 231
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdf3e27eb479df40ab0ceb8af107e90
+      internalID: 1941937291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_323
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 231
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd97568a0d58dbf49814a58df39b79a4
+      internalID: -1566293827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_324
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 234
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81e38870d7dd76418ca47f7b9dda68b
+      internalID: 459616997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_325
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 234
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35e70d33262d6947b5ac02d1c751646
+      internalID: -532851718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_326
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 232
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea771ee394bc62e4590cb619e406b9c0
+      internalID: -560958976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_327
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 232
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968b3c609b1b6c246a4e67f9a621d46b
+      internalID: 1563963000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_328
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 229
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58c7c6f63bcd994ab40a96e7493032f
+      internalID: 1738136930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_329
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 178
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df885e623b20194dad71c164ea1d501
+      internalID: 1328467658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_330
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 181
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7faf29bc1db7104a90ec54edd0509f1
+      internalID: -1606316927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_331
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 181
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca6c8af008bf58448028b1b15815365
+      internalID: 1497702476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_332
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 194
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4f0599db1849641ad25f2b6ed73c9f
+      internalID: 1615316186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_333
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 160
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd35eaba0dc40b24caae810eba1b9db8
+      internalID: -212331868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_334
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 164
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4ff0cb7cf095447abfb8d40c09f21e
+      internalID: 1067286566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_335
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 164
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5512663878d8c84a8b5a02383a42b0e
+      internalID: 1073357060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_336
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 161
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc6ebb073e3d004fa3ef6fdc80a305d
+      internalID: -506194996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_337
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 161
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00466a65468833a49a6fc6d7a233c377
+      internalID: 396644659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_338
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 158
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b010c9fd624690247915f2a25637435c
+      internalID: -203140993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_339
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 158
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56b17e3b80a9b94a89fbf9838f046c0
+      internalID: 70153545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_340
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 162
+        width: 18
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ed892bdd7507a42afc365d48984c56
+      internalID: 1756699900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_341
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 162
+        width: 18
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a6379366f6f264c88544bbd0ce0440
+      internalID: 633297714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroundAssets 1_342
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 160
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01786934c8eb19b4dbaecf757e7563a2
+      internalID: 1121830074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GroundAssets 1_0: -257483796
+      GroundAssets 1_1: -1939194292
+      GroundAssets 1_10: -1366291405
+      GroundAssets 1_100: 40368705
+      GroundAssets 1_101: 383665553
+      GroundAssets 1_102: 1721631731
+      GroundAssets 1_103: 1714140595
+      GroundAssets 1_104: -683062218
+      GroundAssets 1_105: -408643690
+      GroundAssets 1_106: 1022081816
+      GroundAssets 1_107: 1784637053
+      GroundAssets 1_108: -975266060
+      GroundAssets 1_109: -2127725124
+      GroundAssets 1_11: 989241857
+      GroundAssets 1_110: 1387738665
+      GroundAssets 1_111: 1558196288
+      GroundAssets 1_112: 1283747123
+      GroundAssets 1_113: 1615619625
+      GroundAssets 1_114: -1047874939
+      GroundAssets 1_115: 1687514423
+      GroundAssets 1_116: -1769499989
+      GroundAssets 1_117: -1974249450
+      GroundAssets 1_118: 1715461686
+      GroundAssets 1_119: -1851137692
+      GroundAssets 1_12: 452803049
+      GroundAssets 1_120: 811584478
+      GroundAssets 1_121: -1762377873
+      GroundAssets 1_122: 1181347125
+      GroundAssets 1_123: -90234593
+      GroundAssets 1_124: 1183858447
+      GroundAssets 1_125: -1664091588
+      GroundAssets 1_126: 1594921732
+      GroundAssets 1_127: 247576528
+      GroundAssets 1_128: -1368590303
+      GroundAssets 1_129: -1934814933
+      GroundAssets 1_13: -819941262
+      GroundAssets 1_130: -448466216
+      GroundAssets 1_131: -845175018
+      GroundAssets 1_132: -458467130
+      GroundAssets 1_133: 710490091
+      GroundAssets 1_134: -2019120303
+      GroundAssets 1_135: -60220588
+      GroundAssets 1_136: 1944333965
+      GroundAssets 1_137: 2016772150
+      GroundAssets 1_138: -836049208
+      GroundAssets 1_139: -430752715
+      GroundAssets 1_14: -660408346
+      GroundAssets 1_140: 2115346290
+      GroundAssets 1_141: 1012523345
+      GroundAssets 1_142: -988852111
+      GroundAssets 1_143: -1039945042
+      GroundAssets 1_144: 1203710521
+      GroundAssets 1_145: -1049585602
+      GroundAssets 1_146: -1107086956
+      GroundAssets 1_147: -2064215913
+      GroundAssets 1_148: 1814690123
+      GroundAssets 1_149: 732502488
+      GroundAssets 1_15: 2015375584
+      GroundAssets 1_150: 1784601219
+      GroundAssets 1_151: 1668741785
+      GroundAssets 1_152: 1803834231
+      GroundAssets 1_153: -1569278956
+      GroundAssets 1_154: -234927405
+      GroundAssets 1_155: -2044159113
+      GroundAssets 1_156: 1865080708
+      GroundAssets 1_157: 311063536
+      GroundAssets 1_158: -2065806726
+      GroundAssets 1_159: -623237715
+      GroundAssets 1_16: -1392415281
+      GroundAssets 1_160: -2131732360
+      GroundAssets 1_161: 793907602
+      GroundAssets 1_162: 1030902649
+      GroundAssets 1_163: -1025192830
+      GroundAssets 1_164: -419100913
+      GroundAssets 1_165: -168986436
+      GroundAssets 1_166: -989938497
+      GroundAssets 1_167: 1156388243
+      GroundAssets 1_168: 1415976390
+      GroundAssets 1_169: -1843544054
+      GroundAssets 1_17: 918466557
+      GroundAssets 1_170: -1744513782
+      GroundAssets 1_171: 57213623
+      GroundAssets 1_172: 1267501836
+      GroundAssets 1_173: 1104395251
+      GroundAssets 1_174: -1590459256
+      GroundAssets 1_175: -1137972530
+      GroundAssets 1_176: -1870216336
+      GroundAssets 1_177: 1480004188
+      GroundAssets 1_178: 16970168
+      GroundAssets 1_179: 812057453
+      GroundAssets 1_18: 1820221828
+      GroundAssets 1_180: -1372596287
+      GroundAssets 1_181: -1384272606
+      GroundAssets 1_182: 1772144283
+      GroundAssets 1_183: 1009443595
+      GroundAssets 1_184: 464036192
+      GroundAssets 1_185: -1440173364
+      GroundAssets 1_186: -425621393
+      GroundAssets 1_187: -936138694
+      GroundAssets 1_188: -783897904
+      GroundAssets 1_189: 1915889389
+      GroundAssets 1_19: 82196089
+      GroundAssets 1_190: -1703909229
+      GroundAssets 1_191: 1449013157
+      GroundAssets 1_192: 86922241
+      GroundAssets 1_193: 609069177
+      GroundAssets 1_194: -1778294162
+      GroundAssets 1_195: 1270241063
+      GroundAssets 1_196: -2031776422
+      GroundAssets 1_197: -1852324939
+      GroundAssets 1_198: -590091092
+      GroundAssets 1_199: 1546485865
+      GroundAssets 1_2: 360027393
+      GroundAssets 1_20: -427305606
+      GroundAssets 1_200: -1533701234
+      GroundAssets 1_201: -498589339
+      GroundAssets 1_202: 1330331987
+      GroundAssets 1_203: 1928727176
+      GroundAssets 1_204: 1504711963
+      GroundAssets 1_205: -1711966597
+      GroundAssets 1_206: 1489269426
+      GroundAssets 1_207: 935223325
+      GroundAssets 1_208: -2065931424
+      GroundAssets 1_209: 245862366
+      GroundAssets 1_21: -538780877
+      GroundAssets 1_210: -456973520
+      GroundAssets 1_211: -1087566449
+      GroundAssets 1_212: -1894311318
+      GroundAssets 1_213: 1480070793
+      GroundAssets 1_214: -2068572262
+      GroundAssets 1_215: -1831412520
+      GroundAssets 1_216: 1246476314
+      GroundAssets 1_217: 164252813
+      GroundAssets 1_218: -371094264
+      GroundAssets 1_219: 640570474
+      GroundAssets 1_22: -858727897
+      GroundAssets 1_220: 2052890518
+      GroundAssets 1_221: 575995010
+      GroundAssets 1_222: -1561616589
+      GroundAssets 1_223: -205226884
+      GroundAssets 1_224: -1640512067
+      GroundAssets 1_225: -774208306
+      GroundAssets 1_226: -1756081608
+      GroundAssets 1_227: -1668582326
+      GroundAssets 1_228: -185021684
+      GroundAssets 1_229: -648171494
+      GroundAssets 1_23: 1929232223
+      GroundAssets 1_230: 1975885976
+      GroundAssets 1_231: -1958252205
+      GroundAssets 1_232: 94038781
+      GroundAssets 1_233: -634719302
+      GroundAssets 1_234: -1388155764
+      GroundAssets 1_235: 951362229
+      GroundAssets 1_236: 1602299886
+      GroundAssets 1_237: -1229796907
+      GroundAssets 1_238: 2003249253
+      GroundAssets 1_239: 1043235970
+      GroundAssets 1_24: 1135470009
+      GroundAssets 1_240: -1302068737
+      GroundAssets 1_241: 267570523
+      GroundAssets 1_242: 1307052519
+      GroundAssets 1_243: -1574937572
+      GroundAssets 1_244: 1609440278
+      GroundAssets 1_245: -1510733548
+      GroundAssets 1_246: 1386434522
+      GroundAssets 1_247: -758352671
+      GroundAssets 1_248: 1519130092
+      GroundAssets 1_249: 919008350
+      GroundAssets 1_25: -1644711459
+      GroundAssets 1_250: -1133091058
+      GroundAssets 1_251: 649241954
+      GroundAssets 1_252: -1666549632
+      GroundAssets 1_253: -1842547739
+      GroundAssets 1_254: -1865138757
+      GroundAssets 1_255: 1076581682
+      GroundAssets 1_256: -188857540
+      GroundAssets 1_257: -723326403
+      GroundAssets 1_258: 479719444
+      GroundAssets 1_259: -1303592207
+      GroundAssets 1_26: 1126662602
+      GroundAssets 1_260: 58671693
+      GroundAssets 1_261: -1142433622
+      GroundAssets 1_262: -83634338
+      GroundAssets 1_263: 1933237837
+      GroundAssets 1_264: 371865819
+      GroundAssets 1_265: -593730950
+      GroundAssets 1_266: 1808702734
+      GroundAssets 1_267: -370691719
+      GroundAssets 1_268: 402208723
+      GroundAssets 1_269: -1499481265
+      GroundAssets 1_27: 1036242271
+      GroundAssets 1_270: -1602145844
+      GroundAssets 1_271: 1148545607
+      GroundAssets 1_272: 1978544236
+      GroundAssets 1_273: 1574348094
+      GroundAssets 1_274: 1826761250
+      GroundAssets 1_275: -1411401161
+      GroundAssets 1_276: 162781620
+      GroundAssets 1_277: 1854533182
+      GroundAssets 1_278: 252358012
+      GroundAssets 1_279: 14686720
+      GroundAssets 1_28: 416299102
+      GroundAssets 1_280: 567109004
+      GroundAssets 1_281: -1348678084
+      GroundAssets 1_282: 1137773111
+      GroundAssets 1_283: -1160442546
+      GroundAssets 1_284: 866114761
+      GroundAssets 1_285: 444091022
+      GroundAssets 1_286: -2095864301
+      GroundAssets 1_287: -93230149
+      GroundAssets 1_288: 1602393331
+      GroundAssets 1_289: 1805390225
+      GroundAssets 1_29: -390452311
+      GroundAssets 1_290: -520210791
+      GroundAssets 1_291: 2084702550
+      GroundAssets 1_292: -15617547
+      GroundAssets 1_293: -1299916715
+      GroundAssets 1_294: -637006543
+      GroundAssets 1_295: 1910799524
+      GroundAssets 1_296: -621480497
+      GroundAssets 1_297: 841535956
+      GroundAssets 1_298: -420901532
+      GroundAssets 1_299: -964119549
+      GroundAssets 1_3: 1865396608
+      GroundAssets 1_30: 265245435
+      GroundAssets 1_300: -537850101
+      GroundAssets 1_301: 1430147363
+      GroundAssets 1_302: -945635497
+      GroundAssets 1_303: 977154489
+      GroundAssets 1_304: -1022373136
+      GroundAssets 1_305: -1821021856
+      GroundAssets 1_306: 1675847712
+      GroundAssets 1_307: -1564728446
+      GroundAssets 1_308: 2092470233
+      GroundAssets 1_309: 1789906887
+      GroundAssets 1_31: 642705263
+      GroundAssets 1_310: 1962536911
+      GroundAssets 1_311: -594908177
+      GroundAssets 1_312: -1373239594
+      GroundAssets 1_313: -1767629697
+      GroundAssets 1_314: 2001484649
+      GroundAssets 1_315: 1610594803
+      GroundAssets 1_316: -312347362
+      GroundAssets 1_317: -1537270516
+      GroundAssets 1_318: -1867869278
+      GroundAssets 1_319: -815979752
+      GroundAssets 1_32: 1526937773
+      GroundAssets 1_320: 1284285044
+      GroundAssets 1_321: -344309197
+      GroundAssets 1_322: 1941937291
+      GroundAssets 1_323: -1566293827
+      GroundAssets 1_324: 459616997
+      GroundAssets 1_325: -532851718
+      GroundAssets 1_326: -560958976
+      GroundAssets 1_327: 1563963000
+      GroundAssets 1_328: 1738136930
+      GroundAssets 1_329: 1328467658
+      GroundAssets 1_33: 325152104
+      GroundAssets 1_330: -1606316927
+      GroundAssets 1_331: 1497702476
+      GroundAssets 1_332: 1615316186
+      GroundAssets 1_333: -212331868
+      GroundAssets 1_334: 1067286566
+      GroundAssets 1_335: 1073357060
+      GroundAssets 1_336: -506194996
+      GroundAssets 1_337: 396644659
+      GroundAssets 1_338: -203140993
+      GroundAssets 1_339: 70153545
+      GroundAssets 1_34: -1773672035
+      GroundAssets 1_340: 1756699900
+      GroundAssets 1_341: 633297714
+      GroundAssets 1_342: 1121830074
+      GroundAssets 1_35: -840454019
+      GroundAssets 1_36: -2021619585
+      GroundAssets 1_37: -1538447636
+      GroundAssets 1_38: -95753115
+      GroundAssets 1_39: -260047814
+      GroundAssets 1_4: 1437386355
+      GroundAssets 1_40: 628684089
+      GroundAssets 1_41: 890766224
+      GroundAssets 1_42: -210319093
+      GroundAssets 1_43: 153559786
+      GroundAssets 1_44: -1103395482
+      GroundAssets 1_45: 935644252
+      GroundAssets 1_46: -826975653
+      GroundAssets 1_47: -1952663585
+      GroundAssets 1_48: -323068763
+      GroundAssets 1_49: -781862168
+      GroundAssets 1_5: -747790972
+      GroundAssets 1_50: -960833908
+      GroundAssets 1_51: -933073595
+      GroundAssets 1_52: -1865030346
+      GroundAssets 1_53: -1160209490
+      GroundAssets 1_54: -1301538640
+      GroundAssets 1_55: -1457131772
+      GroundAssets 1_56: 449149110
+      GroundAssets 1_57: -992789328
+      GroundAssets 1_58: 124601497
+      GroundAssets 1_59: 1746274380
+      GroundAssets 1_6: 149883194
+      GroundAssets 1_60: -131807580
+      GroundAssets 1_61: 1875588098
+      GroundAssets 1_62: 2000159547
+      GroundAssets 1_63: 44138759
+      GroundAssets 1_64: -142320873
+      GroundAssets 1_65: 311984061
+      GroundAssets 1_66: 765976630
+      GroundAssets 1_67: -25862715
+      GroundAssets 1_68: 624894427
+      GroundAssets 1_69: 938401470
+      GroundAssets 1_7: -159043806
+      GroundAssets 1_70: 387763880
+      GroundAssets 1_71: -36368595
+      GroundAssets 1_72: 1030583718
+      GroundAssets 1_73: -1399262837
+      GroundAssets 1_74: -37360719
+      GroundAssets 1_75: -87805717
+      GroundAssets 1_76: 1978164850
+      GroundAssets 1_77: 702913342
+      GroundAssets 1_78: -1907629948
+      GroundAssets 1_79: 368257973
+      GroundAssets 1_8: 1766425953
+      GroundAssets 1_80: 428163794
+      GroundAssets 1_81: -833580543
+      GroundAssets 1_82: 1760175000
+      GroundAssets 1_83: 516488443
+      GroundAssets 1_84: 827223571
+      GroundAssets 1_85: -964549782
+      GroundAssets 1_86: 1341396147
+      GroundAssets 1_87: 69092026
+      GroundAssets 1_88: -1556190037
+      GroundAssets 1_89: -1850708838
+      GroundAssets 1_9: -475323175
+      GroundAssets 1_90: 748119590
+      GroundAssets 1_91: -1921457577
+      GroundAssets 1_92: -259457152
+      GroundAssets 1_93: 738742054
+      GroundAssets 1_94: 1261735019
+      GroundAssets 1_95: -1491345184
+      GroundAssets 1_96: -1981741468
+      GroundAssets 1_97: -133644541
+      GroundAssets 1_98: -479630038
+      GroundAssets 1_99: 1369124382
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
